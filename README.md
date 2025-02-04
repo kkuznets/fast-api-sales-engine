@@ -90,8 +90,8 @@ Ensure the following are installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kkuznets/sales-engine-api.git
-   cd sales-engine-api
+   git clone https://github.com/kkuznets/fast-api-sales-engine.git
+   cd fast-api-sales-engine
    ```
 
 2. Create a `.env` file with the necessary environment variables:
